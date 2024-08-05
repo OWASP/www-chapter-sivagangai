@@ -1,4 +1,13 @@
+---
 
+layout: col-sidebar
+title: OWASP Sivagangai
+tags: example-tag
+region: Asia
+country: India
+meetup-group:
+
+---
 ## Welcome
 We are excited to announce the launch of our local OWASP chapter OWASP Sivagangai, dedicated in empowering the community in the rapidly evolving fields of AI and application security. As technology advances, the intersection of artificial intelligence and cybersecurity presents both opportunities and challenges. Our mission is to provide a platform for learning, collaboration, and innovation, ensuring that our community is equipped with the knowledge and skills necessary to secure AI-driven applications and protect sensitive data.
 
