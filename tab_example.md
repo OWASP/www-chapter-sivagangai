@@ -1,5 +1,5 @@
 ---
-title: Example
+title: Announcements
 layout:  null
 tab: true
 order: 1
