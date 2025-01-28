@@ -1,11 +1,11 @@
 ## Chapter Leaders
 
 ### Arun P
-![Arun P](assets/images/arun.png){: width="100px" height="100px" alt="Arun's photo"}
+![Arun P]
 **Role:** Chapter Leader
 
 ### Ganesh
-![Ganesh](assets/images/ganesh.jpg){: style="border-radius: 50%;" width="100px" height="100px" alt="Ganesh's photo"}
+![Ganesh]
 **Role:** Chapter Leader
 
 ### Leaders
