@@ -27,7 +27,7 @@ We welcome everyone to participate in our chapter activities and contribute to o
 
 ## Contact Us
 For questions or collaboration opportunities:
-- Email: (mailto:arun.p@owasp.org) (mailto:ganesh.c@owasp.org)
+- Email: * [Arun P](mailto:arun.p@owasp.org) * [Ganesh Chidambaram](mailto:ganesh.c@owasp.org)
 - LinkedIn: [OWASP Sivagangai](#)
 
 ---
