@@ -1,7 +1,7 @@
 ---
 layout: col-sidebar
 title: OWASP Sivagangai
-tags: example-tag
+tags: AI-security
 region: Asia
 country: India
 meetup-group:
