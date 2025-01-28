@@ -44,7 +44,7 @@ Chapters are led by local leaders in accordance with the [Chapters Policy](/www-
 </div> 
 <div>
   <img width="100px" height="100px" src="assets/images/ganesh.jpg" style="border-radius: 50%;" alt="Ganesh's photo"/><br/> 
-  <b>Ganesh</b>
+  <b>Ganesh Chidambaram</b>
 </div>
 
 ---
