@@ -1,10 +1,10 @@
 ---
 layout: col-sidebar
 title: OWASP Sivagangai
-tags: AI-security
+tags: sivagangai
 region: Asia
 country: India
-meetup-group:
+meetup-group: OWASP-Sivagangai-Chapter
 
 ---
 
