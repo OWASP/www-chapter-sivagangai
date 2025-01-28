@@ -1,5 +1,3 @@
-# info.md
-
 ## About OWASP Sivagangai
 OWASP Sivagangai is a local chapter of the Open Worldwide Application Security Project (OWASP), dedicated to fostering a strong community focused on **AI** and **application security**. We provide a platform for collaboration, innovation, and learning to address the challenges at the intersection of artificial intelligence and cybersecurity.
 
