@@ -15,7 +15,7 @@ Our mission is to empower individuals and organizations with the tools and knowl
 
 ## Contact Us
 For inquiries or to get involved, please reach out to us:
-- [Email Us](#)
+- [Email Us](mailto:arun.p@owasp.org)
 - [Follow us on LinkedIn](#)
 - [Join our Meetup Group](#)
 
