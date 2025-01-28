@@ -1,16 +1,13 @@
 ## Chapter Leaders
 
 ### Arun P
-![Arun P]
 **Role:** Chapter Leader
+* [Arun P](mailto:arun.p@owasp.org)
 
 ### Ganesh
-![Ganesh]
 **Role:** Chapter Leader
-
-### Leaders
-* [Arun P](mailto:arun.p@owasp.org)
 * [Ganesh C](mailto:ganesh.c@owasp.org)
+
 
 Our leaders are committed to building a vibrant and inclusive community that drives innovation and excellence in application security.
 
