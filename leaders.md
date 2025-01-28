@@ -4,7 +4,7 @@
 **Role:** Chapter Leader
 * [Arun P](mailto:arun.p@owasp.org)
 
-### Ganesh
+### Ganesh Chidambaram
 **Role:** Chapter Leader
 * [Ganesh C](mailto:ganesh.c@owasp.org)
 
