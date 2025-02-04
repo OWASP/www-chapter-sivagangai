@@ -52,7 +52,7 @@ Chapters are led by local leaders in accordance with the [Chapters Policy](/www-
 
 ## Chapter Members
 <div>
-  <img width="100px" height="100px" src="assets/images/anirudh.png" alt="Gowtham Anirudh's photo"/><br/> 
+  <img width="100px" height="100px" src="assets/images/anirudh.jpg" alt="Gowtham Anirudh's photo"/><br/> 
   <b>KP Gowtham Anirudh</b>
 </div> 
 
