@@ -2,7 +2,11 @@
 
 ### K.P. Gowtham Anirudh
 **Role:** Core Member  
-* [K.P. Gowtham Anirudh](mailto:kpgowthamanirudh@gmail.com)
+* [K.P. Gowtham Anirudh](mailto:kingmadhavan2022@gmail.com)
+
+### Madhavan V
+**Role:** Core Member  
+* [Madhavan V](mailto:kpgowthamanirudh@gmail.com)
 
 Our members actively contribute to cybersecurity initiatives and collaborate on projects to enhance security awareness.
 
