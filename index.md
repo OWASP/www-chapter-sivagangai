@@ -73,7 +73,7 @@ Chapters are led by local leaders in accordance with the [Chapters Policy](/www-
 ---
 
 ## Get Involved
-Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. Diversity is at the heart of our initiatives, and OWASP is a fantastic place to learn about application security, network with experts, and grow your reputation in the field.
+Everyone is welcome and encouraged to participate in our [Projects](https://bit.ly/42LNjA4), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. Diversity is at the heart of our initiatives, and OWASP is a fantastic place to learn about application security, network with experts, and grow your reputation in the field.
 
 Consider becoming a [member](/membership/) or making a [donation](/donate/) to support our ongoing efforts.
 
