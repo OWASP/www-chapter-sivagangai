@@ -88,6 +88,7 @@ We welcome everyone to participate in our chapter activities and contribute to o
 - Attend our [Meetups and Events](#).
 - Join our [Slack Community](https://owasp.slack.com/).
 - Contribute to our open-source project **IOT Guide** with owasp [Fill the gform](https://forms.gle/88xUTQt7eQi7MeCb9)
+  
 ---
 ## Next Meeting/Event
 {% include chapter_events.html group=page.meetup-group %}
