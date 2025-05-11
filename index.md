@@ -83,6 +83,11 @@ Consider becoming a [member](/membership/) or making a [donation](/donate/) to s
 Join us today and be part of the global effort to make the digital world a safer place. [Contact Us](#) or [Attend Our Next Event](#)!
 
 ---
-
+## Get Involved
+We welcome everyone to participate in our chapter activities and contribute to our projects. Here are a few ways to get involved:
+- Attend our [Meetups and Events](#).
+- Join our [Slack Community](https://owasp.slack.com/).
+- Contribute to our open-source project **IOT Guide** with owasp [Fill the gform](https://forms.gle/88xUTQt7eQi7MeCb9)
+---
 ## Next Meeting/Event
 {% include chapter_events.html group=page.meetup-group %}
