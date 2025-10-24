@@ -1,0 +1,25 @@
+leaders:
+  - name: Arun P
+    email: arun.p@owasp.org
+    github: acs-web-tech
+  - name: Ganesh C
+    email: ganesh.c@owasp.org
+    github: ganeshc-305
+location:
+  country: India
+  country_code: IN
+  region: Tamil Nadu
+  city: Sivagangai
+  latitude: 9.9650599
+  longitude: 78.7204283237222
+meetup_group: OWASP-Sivagangai-Chapter
+name: OWASP Sivagangai
+repositories:
+  - name: www-chapter-sivagangai
+    url: https://github.com/OWASP/www-chapter-sivagangai
+    description: OWASP Foundation web repository
+tags:
+  - sivagangai
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-sivagangai
